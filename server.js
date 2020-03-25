@@ -9,7 +9,6 @@ import morgan from 'morgan';
 import emoji from 'node-emoji';
 import responseTime from 'response-time';
 import favicon from 'serve-favicon';
-import xss from 'xss-clean';
 import indexRouter from './routes/index';
 import usersRouter from './routes/users';
 
@@ -17,9 +16,6 @@ const app = express();
 
 // secure the server by setting various HTTP headers
 app.use(helmet());
-
-// sanitize user input coming from POST body, GET queries, and url params
-app.use(xss());
 
 // only parse JSON
 app.use(express.json());

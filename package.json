@@ -13,6 +13,7 @@
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "express": "~4.17.1",
+    "express-mongo-sanitize": "^2.0.0",
     "express-rate-limit": "^5.1.1",
     "helmet": "^3.21.3",
     "hpp": "^0.2.3",
@@ -20,8 +21,7 @@
     "morgan": "~1.10.0",
     "node-emoji": "^1.10.0",
     "response-time": "^2.3.2",
-    "serve-favicon": "^2.5.0",
-    "xss-clean": "^0.1.1"
+    "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
