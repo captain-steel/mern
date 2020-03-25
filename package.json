@@ -15,11 +15,13 @@
     "express": "~4.17.1",
     "express-rate-limit": "^5.1.1",
     "helmet": "^3.21.3",
+    "hpp": "^0.2.3",
     "mongoose": "^5.9.6",
     "morgan": "~1.10.0",
     "node-emoji": "^1.10.0",
     "response-time": "^2.3.2",
-    "serve-favicon": "^2.5.0"
+    "serve-favicon": "^2.5.0",
+    "xss-clean": "^0.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

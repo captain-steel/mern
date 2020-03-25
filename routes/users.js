@@ -3,7 +3,8 @@ let usersRouter = express.Router();
 
 usersRouter.get('/', function (req, res, next) {
   res.send({
-    name: 'MongoDB/users'
+    name: 'MongoDB/users',
+    cookies: req.cookies
   });
 });
 
