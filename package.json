@@ -16,6 +16,7 @@
     "express": "~4.17.1",
     "express-rate-limit": "^5.1.1",
     "helmet": "^3.21.3",
+    "mongoose": "^5.9.6",
     "morgan": "~1.10.0",
     "node-emoji": "^1.10.0",
     "response-time": "^2.3.2",
