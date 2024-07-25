@@ -1,5 +1,5 @@
 db.createUser({
-  user: "wassim-azirar",
+  user: "captain-steel",
   pwd: "linkedin",
   roles: [
     {
