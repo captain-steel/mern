@@ -34,7 +34,7 @@ This repo uses some VSCode extensions. It's highly recommended to install them.
 
 | Extension | Link |
 |-----------|------|
-| <img src="https://github.com/wassim-azirar/mern/blob/master/images/babel.svg" alt="BABEL" width="100"/> | [BABEL](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) |
-| <img src="https://github.com/wassim-azirar/mern/blob/master/images/editorconfig.png" alt="EditorConfig" width="100"/> | [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) |
-| <img src="https://github.com/wassim-azirar/mern/blob/master/images/eslint.svg" alt="ESLint" width="100"/> | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
-| <img src="https://github.com/wassim-azirar/mern/blob/master/images/prettier.png" alt="Prettier" width="100"/> | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
+| <img src="https://github.com/captain-steel/mern/blob/master/images/babel.svg" alt="BABEL" width="100"/> | [BABEL](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) |
+| <img src="https://github.com/captain-steel/mern/blob/master/images/editorconfig.png" alt="EditorConfig" width="100"/> | [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) |
+| <img src="https://github.com/captain-steel/mern/blob/master/images/eslint.svg" alt="ESLint" width="100"/> | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) |
+| <img src="https://github.com/captain-steel/mern/blob/master/images/prettier.png" alt="Prettier" width="100"/> | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
